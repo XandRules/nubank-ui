@@ -1,13 +1,13 @@
-### Recriando a Interface do Nubank
+## Recriando a Interface do Nubank
 
-## Para rodar o projeto basta rodar o comando
+### Para rodar o projeto basta rodar o comando
 
-## Primeiro instalar todas as dependências do projeto
+### Primeiro instalar todas as dependências do projeto
 ```bash
 npm i
 ```
 
-## Deposi rodar o projeto
+### Depois rodar o projeto
 
 ```bash
 ionic serve
